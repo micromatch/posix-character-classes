@@ -1,7 +1,7 @@
 {
   "name": "posix-character-classes",
   "description": "POSIX character classes for creating regular expressions.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/posix-character-classes",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/posix-character-classes",
