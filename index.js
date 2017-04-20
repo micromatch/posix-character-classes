@@ -20,4 +20,3 @@ module.exports = {
   word: 'A-Za-z0-9_',
   xdigit: 'A-Fa-f0-9'
 };
-
