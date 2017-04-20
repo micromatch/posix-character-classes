@@ -20,7 +20,8 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "gulp-format-md": "^0.1.11"
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.2.0"
   },
   "keywords": [
     "character",
@@ -36,15 +37,18 @@
     "plugins": [
       "gulp-format-md"
     ],
-    "lint": {
-      "reflinks": true
-    },
-    "related": {
-      "list": []
-    },
     "reflinks": [
       "verb",
       "verb-generate-readme"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related-list": [
+      "micromatch",
+      "nanomatch",
+      "extglob",
+      "expand-brackets"
     ]
   }
 }
